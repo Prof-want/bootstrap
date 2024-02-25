@@ -1,0 +1,13 @@
+#navigation{
+    background-color: black;
+    color: white;
+    
+}
+nav{
+    float: left;
+}
+li{
+    display: inline;
+    padding: 0 10px 0 10px;
+    float: right; 
+}
